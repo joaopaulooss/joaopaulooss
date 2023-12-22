@@ -1,6 +1,6 @@
 ## Olá, eu sou João Paulo 👋
 
-- 👨🏾‍💻 Atualmente estou cursando a graduação de Sistemas para Internet no IFRN
+- 👨🏾‍💻 Cursando a graduação de Sistemas para Internet no IFRN
 - 🖥️ Aprofundando meus conhecimentos em HTML, CSS e JavaScript
 
 >  Tenho 18 anos e estou em constante aprendizado, animado para explorar as novas fronteiras da tecnologia. 
