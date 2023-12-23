@@ -1,6 +1,6 @@
 ## Olá, eu sou João Paulo 👋
 
-👨🏾‍💻 Cursando a graduação de Sistemas para Internet no IFRN
+👨🏾‍💻 Cursando Sistemas para Internet no IFRN
 
 🖥️ Aprofundando meus conhecimentos em HTML, CSS e JavaScript
 
