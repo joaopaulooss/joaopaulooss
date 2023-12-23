@@ -1,7 +1,8 @@
 ## Olá, eu sou João Paulo 👋
 
-- 👨🏾‍💻 Cursando a graduação de Sistemas para Internet no IFRN
-- 🖥️ Aprofundando meus conhecimentos em HTML, CSS e JavaScript
+👨🏾‍💻 Cursando a graduação de Sistemas para Internet no IFRN
+
+🖥️ Aprofundando meus conhecimentos em HTML, CSS e JavaScript
 
 Em 2022, conclui o ensino médio com ênfase em informática, em uma abordagem integrada oferecida pela minha escola. Atualmente, estou embarcando na jornada acadêmica, cursando a graduação de Sistemas para Internet no IFRN - Campus Currais Novos. 
 
